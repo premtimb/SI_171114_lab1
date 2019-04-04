@@ -1,0 +1,5 @@
+commit e34ff3136e8e93bec3919eb86ddf231a22353868 (HEAD -> logs, origin/master, master)
+Author: unknown <Premtim.Berisha@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:23:09 2019 +0200
+
+    Initial commit
